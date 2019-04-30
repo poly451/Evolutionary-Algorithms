@@ -1,8 +1,8 @@
 # This is a first draft; I didn't use all he functions below.
 
 import pygame, sys
-import world01 as world
-from world01 import Map, Tile
+import world
+from world import Map, Tile
 from random import randint
 import time
 
